@@ -22,6 +22,7 @@ Git猫的核素查询软件
 - [doc](./doc): 相关文档
 - [doc/user-guide](./doc/user-guide.md): 用户文档
 - [doc/materials](./doc/materials): 项目相关学习资料
+- [tool](./tool)：用于数据库输入的相关工具
 
 ## 规范要求
 见 [doc/development/standard.md](./doc/development/standard.md) 。
